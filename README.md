@@ -1,5 +1,5 @@
-# TriLangPlayground
-Welcome to the TriLangPlayground! This repository contains solutions to various exercises from Exercism for the programming languages Go, Rust, and Zig. It serves as a playground for practicing and sharing solutions in these languages.
+# DuoLangPlayground
+Welcome to the DuoLangPlayground! This repository contains solutions to various exercises from Exercism for the programming languages Go and Rust. It serves as a playground for practicing and sharing solutions in these languages.
 
 ## Table of Contents
 - **Introduction**
@@ -12,14 +12,13 @@ Welcome to the TriLangPlayground! This repository contains solutions to various 
 ## Introduction
 Exercism is an online platform that offers coding exercises for over 50 programming languages. It provides a fantastic way for programmers to improve their skills in different languages and get feedback from mentors.
 
-This repository is a community-driven effort to share solutions to Exercism exercises in the languages Go, Rust, and Zig. Whether you're a beginner or an expert in these languages, this playground welcomes everyone to explore, contribute, and learn from each other's solutions.
+This repository is a community-driven effort to share solutions to Exercism exercises in the languages Go and Rust. Whether you're a beginner or an expert in these languages, this playground welcomes everyone to explore, contribute, and learn from each other's solutions.
 
 ## Languages
 The Exercism Solutions Playground focuses on the following programming languages:
 
 - Go
-- Rust
-- Zig <br>
+- Rust <br>
   
 If you're interested in any of these languages or want to improve your skills, this playground is the perfect place for you!
 
@@ -28,13 +27,12 @@ To get started with the Exercism Solutions Playground, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/NebulaTris/TriLangPlayground.git
+git clone https://github.com/NebulaTris/DuoLangPlayground.git
 ```
 
 2. Choose the language you want to work on and navigate to the respective directory:
 - For Go solutions: cd go
-- For Rust solutions: cd rust
-- For Zig solutions: cd zig <br>
+- For Rust solutions: cd rust <br>
 Inside the language directory, you'll find subdirectories for each exercise. Pick an exercise you want to work on, and start coding!
 
 3. After solving an exercise, you can share your solution by creating a new branch and submitting a pull request.
@@ -42,16 +40,12 @@ Inside the language directory, you'll find subdirectories for each exercise. Pic
 ## Directory Structure
 The repository is organized into three main directories, each corresponding to a specific programming language.
 ```yml
-TriLangPlayground/
+DuoLangPlayground/
 ├── go/         # Go solutions
 │   ├── exercise1/
 │   ├── exercise2/
 │   └── ...
 ├── rust/       # Rust solutions
-│   ├── exercise1/
-│   ├── exercise2/
-│   └── ...
-├── zig/        # Zig solutions
 │   ├── exercise1/
 │   ├── exercise2/
 │   └── ...
@@ -61,7 +55,7 @@ Inside each language directory, you'll find subdirectories for each exercise, co
 
 ## Contributing
 
-Contributions to the TriLangPlayground are highly encouraged and appreciated! If you have a solution for an exercise in any of the supported languages, feel free to submit a pull request.
+Contributions to the DuoLangPlayground are highly encouraged and appreciated! If you have a solution for an exercise in any of the supported languages, feel free to submit a pull request.
 
 ## To contribute:
 
